@@ -1,3 +1,3 @@
 # Hackerrank
 
-My Hackerrank exercises
+My pratices in Hackerrank 
