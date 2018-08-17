@@ -29,8 +29,7 @@ class Solution {
                 res[1] = res[1] + (a[i][d2]);
                 d1++;
                 d2--;
-            }
-            
+            }            
             Console.WriteLine(Math.Abs(res[0] - res[1]));
          
     }
